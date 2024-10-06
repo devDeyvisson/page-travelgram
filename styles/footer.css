@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding-block: 24px;
+}
+
+footer span a:last-child {
+    padding-left: 16px;
+}
+
+footer span a {
+    padding: 4px;
+}
+
